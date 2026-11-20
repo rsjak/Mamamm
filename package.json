@@ -13,14 +13,12 @@
   "author": "l",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.1",
-    "express": "5.0.0",
-    "multer": "1.4.4-lts.1",
-    "node-telegram-bot-api": "latest",
-    "uuid": "^2.0.0",
-    "ws": "latest",
-    "axios": "^0.26.1"
+  "body-parser": "latest",
+  "express": "latest",
+  "multer": "latest",
+  "node-telegram-bot-api": "latest",
+  "uuid": "latest",
+  "ws": "latest",
+  "axios": "latest"
   }
-
-}
 
